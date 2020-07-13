@@ -1,2 +1,2 @@
 # AdditionCalculator
-# Developed a calculator in Python using the Tkinter GUI toolkit.
+A calculator developed using Python and the Tkinter GUI toolkit.
